@@ -1,4 +1,4 @@
-# Generate2DCardiactCineMRI
+# Examples
 
 ![0000_gen](https://github.com/cyiheng/TextToCine2DMRI/blob/main/gifs/0000_gen.gif)
 ![0001_gen](https://github.com/cyiheng/TextToCine2DMRI/blob/main/gifs/0001_gen.gif)
